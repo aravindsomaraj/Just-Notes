@@ -1,3 +1,6 @@
+---
+title: Relational Algebra
+---
 # Relational Algebra
 - Basis for SQL
 - Operates on relations

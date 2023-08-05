@@ -1,3 +1,6 @@
+---
+title: Normal Forms
+---
 ## Ist Normal Form
 - Rules:
   - Each attribute contains atomic values:

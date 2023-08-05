@@ -1,3 +1,6 @@
+---
+title: Relational Models
+---
 # Relational Model
 - Represents data as tables, made of rows and coloumns
 - Each table is a relation, each row is a tuple, each coloumn is an attribute of the tuple.

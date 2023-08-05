@@ -1,3 +1,6 @@
+---
+title: ER Model
+---
 # Entity-Relationship Model
 - Structure - [ *Entity, Attributes, Relationship* ]
 - ER diagram for graphical representation.

@@ -1,3 +1,6 @@
+---
+title: Introduction
+---
 # Why Databases?
 
 - Easy to deploy and access
