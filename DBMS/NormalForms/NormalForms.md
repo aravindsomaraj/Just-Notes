@@ -16,15 +16,16 @@ title: Normal Forms
   - It is in 1NF.
   - No partial dependancy.
     - Partial dependancy is when :
-        > `Proper subset of C`<sub>`k`</sub>` -> non-prime attribute`
+        `Proper subset of C`<sub>`k`</sub>` -> non-prime attribute`
 - Decompose R to remove partial dependancy to make it in 2NF.
 ---
+
 ## 3rd Normal Form
 - Rules: 
   - It is in 2NF.
   - No transitive dependancy for non-prime attributes.
   - There should be no functional dependancy like :
-    > `Non-prime attribute -> Non-prime attribute`
+    `Non-prime attribute -> Non-prime attribute`
   - > **NOTE**: AB -> C where A is prime attr, and B is non-prime attr, then **AB is considered non-prime attr** in above condition.
 
 | 2NF           |   |      3NF      |
