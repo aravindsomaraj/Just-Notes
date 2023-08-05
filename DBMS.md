@@ -1,7 +1,7 @@
 # Topics
-- [Introduction](DBMS/1%20-%20Introduction.md)
-- [ER Model](DBMS/2%20-%20ER%20Model.md)
-- [Relational Models](DBMS/3%20-%20Relational%20Models.md)
-- [Relational Algebra](DBMS/4%20-%20Relational%20Algebra.md)
-- [Relational Calculus](DBMS/5%20-%20Relational%20Calculus.md)
-- [Normal Forms](DBMS/Normal%20Forms/Normal%20Forms.md)
+- [Introduction](DBMS/Introduction.md)
+- [ER Model](DBMS/ERModel.md)
+- [Relational Models](DBMS/RelationalModels.md)
+- [Relational Algebra](DBMS/RelationalAlgebra.md)
+- [Relational Calculus](DBMS/RelationalCalculus.md)
+- [Normal Forms](DBMS/NormalForms/NormalForms.md)
