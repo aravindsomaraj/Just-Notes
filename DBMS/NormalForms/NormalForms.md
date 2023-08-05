@@ -9,7 +9,8 @@ title: Normal Forms
   - Each col contains values from same domain.
   - Each col has unique name.
   - No ordering applied to cols nor rows.
-  - No duplicate rows.
+  <li> No duplicate rows.
+
 ---
 ## 2nd Normal Form
 - Rules:
@@ -17,7 +18,7 @@ title: Normal Forms
   - No partial dependancy.
     - Partial dependancy is when :
         `Proper subset of C`<sub>`k`</sub>` -> non-prime attribute`
-- Decompose R to remove partial dependancy to make it in 2NF.
+  <li> Decompose R to remove partial dependancy to make it in 2NF. 
 ---
 
 ## 3rd Normal Form
