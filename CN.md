@@ -4,3 +4,6 @@
     - [Part 2](CN/routerDesign2.md)
 - [Software Defined Networking](CN/sdn1.md)
 - [Transport and Application Layers](CN/transportAppLayers.md)
+
+## Notes
+- [VLANs](CN/06-11-2023.md)
