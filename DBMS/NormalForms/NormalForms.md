@@ -1,7 +1,7 @@
 ---
 title: Normal Forms
 ---
-## Ist Normal Form
+## Ist Normal Form [↩](../../Contents/DBMS.md)
 - Rules:
   - Each attribute contains atomic values:
     - If composite values, make separate coloumns.

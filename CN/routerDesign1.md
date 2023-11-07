@@ -5,7 +5,7 @@ course: computer-networks
 lecture: router-design-and-algorithms-part-1
 ---
 
-# Router Design and Algorithms (Part 1)
+# Router Design and Algorithms (Part 1) [↩](../Contents/CN.md)
 
 ## What's Inside a Router?
 

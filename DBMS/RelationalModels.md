@@ -1,7 +1,7 @@
 ---
 title: Relational Models
 ---
-# Relational Model
+# Relational Model [↩](../Contents/DBMS.md)
 - Represents data as tables, made of rows and coloumns
 - Each table is a relation, each row is a tuple, each coloumn is an attribute of the tuple.
 - **Primary Keys** are unique identifiers for tuples in a relation.

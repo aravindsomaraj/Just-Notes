@@ -1,7 +1,7 @@
 ---
 title: ER Model
 ---
-# Entity-Relationship Model
+# Entity-Relationship Model [↩](../Contents/DBMS.md)
 - Structure - [ *Entity, Attributes, Relationship* ]
 - ER diagram for graphical representation.
 ---

@@ -1,6 +1,9 @@
 # Just-Notes
 Couple of Notes from several courses.
 
-- [DBMS](DBMS.md)
-- [Operating Systems](OS.md)
-- [Computer Networks](CN.md)
+- [DBMS](Contents/DBMS.md)
+- [Operating Systems](Contents/OS.md)
+- [Computer Networks](Contents/CN.md)
+- [Software Engineering](Contents/SE.md)
+
+
