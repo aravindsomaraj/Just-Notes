@@ -9,9 +9,9 @@ title: Relational Calculus
     ```
 - Two variants:
     - Tuple relational calculus
-    - Domain relational calculus
+    - Domain relational calculus  
 ---
-
+  
 ## Tuple Relational Calculus
 - T is a variable - tuples of a relation as values : {(T|P(T)}
 - {(T | T ∈ *instructor* ∧ T.salaray ≥ 90000)}  --> **Selection**
