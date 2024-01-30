@@ -1,4 +1,4 @@
-theme: jekyll-theme-THEME-NAME
+theme: jekyll-theme-Hacker
 plugins:
   - jekyll-relative-links
 relative_links:
