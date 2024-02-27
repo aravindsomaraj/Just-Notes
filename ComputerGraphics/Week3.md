@@ -47,4 +47,4 @@ end
 ...returns a 2x2 rotation matrix based on the angle.
 
 > [!IMPORTANT]
-> The **ORDER** of points is very importnat. **Altering the order of points will change the plot in drastic ways!** So be careful of that.
+> The **ORDER** of points is very important. **Altering the order of points will change the plot in drastic ways!** So be careful of that.
