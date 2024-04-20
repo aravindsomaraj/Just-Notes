@@ -6,5 +6,6 @@ Couple of Notes from several courses.
 - [Computer Networks](Contents/CN.md)
 - [Software Engineering](Contents/SE.md)
 - [BTP](Contents/BTP.md)
+- [Political Thought](nptel.md)
 
 
