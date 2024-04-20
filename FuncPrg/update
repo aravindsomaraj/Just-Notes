@@ -1,0 +1,31 @@
+#!/bin/bash
+
+today=$(date +%d-%m-%y)
+# echo $today
+
+# Initialize variables
+perform_action_p=false      # Whether to push or not   --> -p
+perform_action_a=false      # Whether to commit all or just today's   --> -a
+
+# Parse command-line options
+while getopts ":pa" opt; do         
+  case ${opt} in
+    p ) perform_action_p=true ;;
+    a ) perform_action_a=true ;;
+    \? ) echo "Invalid flag: $OPTARG" 1>&2
+         exit 1 ;;
+  esac
+done
+
+if [ "$perform_action_a" = true ]; then
+    git add .
+else
+    git add "${today}.md"
+fi
+
+git commit -m "Uploaded new notes"
+
+if [ "$perform_action_p" = true ]; then
+    git push
+fi
+
